@@ -1,0 +1,17 @@
+{
+    "short_name": "Little Baby Doge",
+    "name": "Little Baby Doge",
+    "description": "Farm and earn rewards",
+    "icons": [
+      {
+        "src": "favicon.svg",
+        "type": "image/x-icon",
+        "sizes": "256x256"
+      }
+    ],
+    "start_url": ".",
+    "display": "standalone",
+    "theme_color": "#000000",
+    "background_color": "#ffffff"
+  }
+  
